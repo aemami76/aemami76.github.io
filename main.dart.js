@@ -81474,7 +81474,7 @@ o=A.d1(m,8+e/12,m)
 n=f>600?A.hK(A.b([A.jc(A.b([new A.he("github",B.xk,k,!1,m),B.cP,new A.he(l,B.xn,j,!0,m)],s),B.a7,B.a8,B.a9),B.bL,A.jc(A.b([new A.he("Linkdin",B.xm,i,!1,m),B.cP,new A.he("Email",B.xl,h,!0,m)],s),B.a7,B.a8,B.a9),B.bL],s),B.a7,B.a8,B.a9):A.hK(A.b([new A.he("github",B.xk,k,!1,m),B.bL,new A.he(l,B.xn,j,!1,m),B.bL,new A.he("Linkdin",B.xm,i,!1,m),B.bL,new A.he("Email",B.xl,h,!1,m),B.xN],s),B.bW,B.a8,B.a9)
 return A.rD(!0,new A.yM(new A.v7(B.Tr,r,!1,new A.RM(m,m,1/0,56),m),A.atU(new A.bR(new A.aF(p,q,p,q),A.hK(A.b([g,o,B.yF,B.Ju,n,B.Jv,new A.Hu(B.A_,new A.Lx(new A.agf(),10,!0,!0,!0,m),m,B.aL,!1,m,m,B.rV,!0,m,10,B.aa,B.wU,m,B.Y,m),B.Ce,B.RF],s),B.a7,B.a8,B.a9),m)),m),B.ao,!0)}}
 A.agg.prototype={
-$0(){var s,r="https://github.com/aemami76/aemami76.github.io/blob/main/assets/assets/emamiCV.pdf",q=document,p=q.createElement("a")
+$0(){var s,r="https://github.com/aemami76/files/raw/main/emamiCV.pdf",q=document,p=q.createElement("a")
 p.href=r
 p.target="blank"
 p.download=B.b.gT(r.split("/"))
